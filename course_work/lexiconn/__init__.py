@@ -1,0 +1,1 @@
+import lexiconn.lexicon_ru
